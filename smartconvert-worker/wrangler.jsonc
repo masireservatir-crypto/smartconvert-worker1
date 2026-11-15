@@ -13,7 +13,7 @@
     {
       "binding": "DB",
       "database_name": "smartconvert-db",
-      "database_id": "REPLACE_WITH_DATABASE_ID",
+      "database_id": "3c152106-fd33-40ff-a3f5-f86357872434",
       "migrations_dir": "migrations"
     }
   ]
